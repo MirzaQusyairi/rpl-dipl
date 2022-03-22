@@ -1,6 +1,0 @@
-Partisipasi Kelompok 7
-
-Adhie Rachmatulloh Sugiono (Nomor 1a)
-Muhammad Afryan Saputra (Nomor 1b)
-Gian Maxmillian Firdaus (Interface Input Data)
-Mohammad Mirza Qusyairi (Interface Output Data)
